@@ -1,0 +1,17 @@
+{
+  "name": "scorekeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "score.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Scorekeeper"
+  ],
+  "author": "Ian Kiguru",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.9.4"
+  }
+}
